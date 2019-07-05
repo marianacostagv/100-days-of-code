@@ -4,7 +4,7 @@
 
 
 Isso é um desafio por 100 dias criar um hábito de programação diária para desenvolver meus conjuntos de habilidades. 
- Mais detalhes sobre o desafio podem ser encontrados aqui: [100daysofcode.com] (http://100daysofcode.com/ "100daysofcode.com") ou [o repositório oficial] (https://github.com/Kallaway/100-days-of-code "o repositório oficial").
+ Mais detalhes sobre o desafio podem ser encontrados aqui: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") ou [o repositório oficial](https://github.com/Kallaway/100-days-of-code "o repositório oficial").
 
 |  Dia de inicio | Data de fim |
 | ------------ | ------------ |
