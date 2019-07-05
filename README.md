@@ -51,7 +51,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - R: Vetores
 
 
-### Day 2: 04 de Junho 2019, Quinta-Feira
+### Day 3: 04 de Junho 2019, Quinta-Feira
 
 **Progresso diario**: 
 - Continue revising the HTML & CSS
