@@ -17,9 +17,9 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Aprender linguagens que possam ser construtivas na minha carreira profissional
 
 ## Cursos 
-|  Curso | Status |
+|  Curso                    | Status             |
 | Introdução a R - DataCamp | :heavy_check_mark: |
-| Power BI - DSA | :sunny: |
+| Power BI - DSA            | :sunny:            |
 - 
 :heavy_check_mark: Finalizado
 :sunny: Em andamento
