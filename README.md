@@ -50,12 +50,11 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 **Nova(s) coisa(s) aprendida(s):** 
 - R: Vetores
 
-
+------------
 ### Day 3: 04 de Junho 2019, Quinta-Feira
 
 **Progresso diario**: 
-- Continue revising the HTML & CSS
-- Completed a "Creative Login/Singup Template" project
+- O que são matrizes em R
 
 **Link(s) usado(s) ou resultado(s):** 
 - [Power BI da DSA](https://www.datascienceacademy.com.br/ "Power BI da DSA")
@@ -65,4 +64,28 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Power BI: Plotar gráficos no PBI usando R
 
 ------------
+### Day 4: 05 de Junho 2019, Quinta-Feira
 
+**Progresso diario**: 
+- O que são Factors em R
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Power BI da DSA](https://www.datascienceacademy.com.br/ "Power BI da DSA")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- R: Factors
+- Power BI: Introdução a Machine Learning
+- Power BI: Power BI e Linguagem R
+
+------------
+### Day 5: 06 de Junho 2019, Quinta-Feira
+
+**Progresso diario**: 
+- Finalização do curso Introduction to R
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Power BI da DSA](https://www.datascienceacademy.com.br/ "Power BI da DSA")
+-- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r "Introduction to R")
+**Nova(s) coisa(s) aprendida(s):** 
+- R: Introdução ao R finalizado
+- Power BI: Introdução à Estatística para Data Science
