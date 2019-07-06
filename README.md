@@ -18,6 +18,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ## Cursos 
 |  Curso                    | Status             |
+| ------------------------- | ------------------ |
 | Introdução a R - DataCamp | :heavy_check_mark: |
 | Power BI - DSA            | :sunny:            |
 - 
