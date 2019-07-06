@@ -17,7 +17,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Aprender linguagens que possam ser construtivas na minha carreira profissional
 
 ##Cursos Finalizados
-- [x]Introdução a R - DataCamp
+- checked # [checkbox:checked]Introdução a R - DataCamp
 
 
 
@@ -88,7 +88,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 **Link(s) usado(s) ou resultado(s):** 
 - [Power BI da DSA](https://www.datascienceacademy.com.br/ "Power BI da DSA")
-- [x][Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r "Introduction to R")
+- checked # [checkbox:checked][Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r "Introduction to R")
 
 **Nova(s) coisa(s) aprendida(s):** 
 - R: Introdução ao R finalizado
