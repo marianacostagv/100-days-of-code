@@ -96,7 +96,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 **Link(s) usado(s) ou resultado(s):** 
 - [Power BI da DSA](https://www.datascienceacademy.com.br/ "Power BI da DSA")
-- :heavy_check_mark:[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r "Introduction to R")
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r "Introduction to R"):heavy_check_mark:
 
 **Nova(s) coisa(s) aprendida(s):** 
 - R: Introdução ao R finalizado
