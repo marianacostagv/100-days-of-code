@@ -31,7 +31,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ## Log
 
-### Day 1: 02 de Junho 2019, Terça-Feira
+### Day 1: 02 de Julho 2019
 
 **Progresso diario**: 
 - Criar minha página no GitHub pages
@@ -50,7 +50,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ------------
 
-### Day 2: 03 de Junho 2019
+### Day 2: 03 de Julho 2019
 
 **Progresso diario**: 
 - Continuei revisando HTML & CSS
@@ -62,7 +62,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - R: Vetores
 
 ------------
-### Day 3: 04 de Junho 2019
+### Day 3: 04 de Julho 2019
 
 **Progresso diario**: 
 - O que são matrizes em R
