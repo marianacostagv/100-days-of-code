@@ -21,6 +21,8 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | ------------------------- | ------------------ |
 | Introdução a R - DataCamp | :heavy_check_mark: |
 | Power BI - DSA            | :sunny:            |
+| Intermediate R            | :sunny:            |
+| Intro to SQL for Data Science            | :sunny:            |
 - 
 :heavy_check_mark: Finalizado
 :sunny: Em andamento
@@ -48,7 +50,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ------------
 
-### Day 2: 03 de Junho 2019, Quarta-Feira
+### Day 2: 03 de Junho 2019
 
 **Progresso diario**: 
 - Continuei revisando HTML & CSS
@@ -60,7 +62,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - R: Vetores
 
 ------------
-### Day 3: 04 de Junho 2019, Quinta-Feira
+### Day 3: 04 de Junho 2019
 
 **Progresso diario**: 
 - O que são matrizes em R
@@ -73,7 +75,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Power BI: Plotar gráficos no PBI usando R
 
 ------------
-### Day 4: 05 de Junho 2019, Quinta-Feira
+### Day 4: 05 de Julho 2019
 
 **Progresso diario**: 
 - O que são Factors em R
@@ -87,7 +89,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Power BI: Power BI e Linguagem R
 
 ------------
-### Day 5: 06 de Junho 2019, Quinta-Feira
+### Day 5: 06 de Julho 2019
 
 **Progresso diario**: 
 - Finalização do curso Introduction to R
@@ -99,5 +101,20 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 **Nova(s) coisa(s) aprendida(s):** 
 - R: Introdução ao R finalizado
 - Power BI: Introdução à Estatística para Data Science
+
+------------
+### Day 6: 07 de Julho 2019
+
+**Progresso diario**: 
+- Intro to SQL for Data Science - Filtering rows
+- Intermediate R - Conditionals and Control Flow
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science "Intro to SQL for Data Science")
+- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Intro to SQL for Data Science - Filtering rows -: where, and, or, between, where in, is null, is not null, like, not like
+-Intermediate R - Conditionals and Control Flow: relational operators, logical operators, conditional statements
 
 ------------
