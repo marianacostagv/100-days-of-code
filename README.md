@@ -23,7 +23,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Power BI - DSA            | :sunny:            |
 | Intermediate R            | :sunny:            |
 | Intro to SQL for Data Science            | :sunny:            |
-- 
+ 
 :heavy_check_mark: Finalizado
 :sunny: Em andamento
 :red_circle: Não iniciado
@@ -115,6 +115,6 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 **Nova(s) coisa(s) aprendida(s):** 
 - Intro to SQL for Data Science - Filtering rows -: where, and, or, between, where in, is null, is not null, like, not like
--Intermediate R - Conditionals and Control Flow: relational operators, logical operators, conditional statements
+- Intermediate R - Conditionals and Control Flow: relational operators, logical operators, conditional statements
 
 ------------
