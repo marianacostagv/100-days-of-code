@@ -118,3 +118,18 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Intermediate R - Conditionals and Control Flow: relational operators, logical operators, conditional statements
 
 ------------
+### Day 7: 08 de Julho 2019
+
+**Progresso diario**: 
+- Intro to SQL for Data Science - Aggregate functions
+- Intermediate R - Loops
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science "Intro to SQL for Data Science")
+- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Intro to SQL for Data Science - Aggregate functions: SUM, AVG, MIN, MAX
+- Intermediate R - Loops: While, For, Break, Next
+
+------------
