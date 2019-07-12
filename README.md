@@ -133,3 +133,31 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Intermediate R - Loops: While, For, Break, Next
 
 ------------
+### Day 8: 09 de Julho 2019
+
+**Progresso diario**: 
+- Intermediate R - Functions
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Intermediate R - Functions: Functions inside functions, writing function
+
+------------
+### Day 9: 10 de Julho 2019
+
+**Progresso diario**: 
+- Intermediate R - R packages
+- Intermediate R - The aplly family
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Intermediate R - R packages: 
+>install.packages()
+>library()
+>search()
+
+------------
