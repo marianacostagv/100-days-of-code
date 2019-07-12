@@ -156,8 +156,8 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 **Nova(s) coisa(s) aprendida(s):** 
 - Intermediate R - R packages: 
->install.packages()
->library()
->search()
+>install.packages( ) | 
+>library( ) | 
+>search( )
 
 ------------
