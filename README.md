@@ -22,7 +22,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Introdução a R - DataCamp | :heavy_check_mark: |
 | Power BI - DSA            | :sunny:            |
 | Intermediate R            | :sunny:            |
-| Intro to SQL for Data Science            | :sunny:            |
+| Intro to SQL for Data Science            | :heavy_check_mark:            |
  
 :heavy_check_mark: Finalizado
 :sunny: Em andamento
@@ -160,4 +160,45 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 >library( ) | 
 >search( )
 
+------------
+### Day 10: 11 de Julho 2019
+
+**Progresso diario**: 
+- Intermediate R - 
+- Intro to SQL for Data Science - :heavy_check_mark:
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+- [Intro to SQL for Data Science R](https://www.datacamp.com/courses/intro-to-sql-for-data-science "Intro to SQL for Data Science")
+
+**Nova(s) coisa(s) aprendida(s):**
+- Intro to SQL for Data Science - Sorting, grouping and joins
+
+
+------------
+### Day 11: 12 de Julho 2019
+
+**Progresso diario**: 
+- Intermediate R
+- Joining Data in SQL
+
+**Link(s) usado(s) ou resultado(s):** 
+-- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+- [Joining Data in SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science "Joining Data in SQL")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Joining Data in SQL - Sorting, grouping and joins
+- Intermediate R - The apply family: diferences between lapply, saplly and vapply
+------------
+### Day 12: 13 de Julho 2019
+
+**Progresso diario**: 
+- Power BI DSA
+
+**Link(s) usado(s) ou resultado(s):** 
+
+- [Power BI DSA](https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science&unit=599e3db35e4cde7eb38b4573Unit "Power BI DSA")
+
+**Nova(s) coisa(s) aprendida(s):** 
+ - Power BI DSA - Cap 12 - Introdução à estatística para Data Science parte 2
 ------------
