@@ -205,17 +205,15 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 ### [off] 14 e 15 de Julho 2019
  - Sem progresso. Estive doente
  ------------
- ### Day  14 e 15 de Julho 2019
- - Sem progresso. Estive doente
- ------------
+ 
  ### Day 13: 16 de Julho 2019
  
  - Intermediate R
-- Joining Data in SQL
+
 
 **Link(s) usado(s) ou resultado(s):** 
--- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
-- [Joining Data in SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science "Joining Data in SQL")
+- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+
 
 **Nova(s) coisa(s) aprendida(s):** 
 - Intermediate R - Useful functions & Time and dates :heavy_check_mark:
