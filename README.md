@@ -21,7 +21,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | ------------------------- | ------------------ |
 | Introdução a R - DataCamp | :heavy_check_mark: |
 | Power BI - DSA            | :sunny:            |
-| Intermediate R            | :sunny:            |
+| Intermediate R            | :heavy_check_mark:           |
 | Intro to SQL for Data Science            | :heavy_check_mark:            |
  
 :heavy_check_mark: Finalizado
@@ -202,3 +202,20 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 **Nova(s) coisa(s) aprendida(s):** 
  - Power BI DSA - Cap 12 - Introdução à estatística para Data Science parte 2
 ------------
+### [off] 14 e 15 de Julho 2019
+ - Sem progresso. Estive doente
+ ------------
+ ### Day  14 e 15 de Julho 2019
+ - Sem progresso. Estive doente
+ ------------
+ ### Day 13: 16 de Julho 2019
+ 
+ - Intermediate R
+- Joining Data in SQL
+
+**Link(s) usado(s) ou resultado(s):** 
+-- [Intermediate R](https://www.datacamp.com/courses/intermediate-r "Intermediate R")
+- [Joining Data in SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science "Joining Data in SQL")
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Intermediate R - Useful functions & Time and dates :heavy_check_mark:
