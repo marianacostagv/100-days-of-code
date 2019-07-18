@@ -217,3 +217,18 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 **Nova(s) coisa(s) aprendida(s):** 
 - Intermediate R - Useful functions & Time and dates :heavy_check_mark:
+------------
+ 
+ ### Day 14: 17 de Julho 2019
+ 
+ - Power BI DSA
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Power BI DSA](https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science&unit=599e3db35e4cde7eb38b4573Unit "Power BI DSA")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- [Power BI DSA]  :heavy_check_mark:
+- Make Over Monday - w29
+
