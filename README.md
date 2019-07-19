@@ -23,6 +23,14 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Power BI - DSA            | :heavy_check_mark:         |
 | Intermediate R            | :heavy_check_mark:           |
 | Intro to SQL for Data Science            | :heavy_check_mark:            |
+| Introduction to Relational Databases in SQL      | :heavy_check_mark:      |
+| Importing Data in R (Part 1)       | :sunny:            |
+| Joining Data in SQL      | :red_circle:          |
+| Introduction to the Tidyverse      | :red_circle:          |
+
+
+
+
  
 :heavy_check_mark: Finalizado
 :sunny: Em andamento
@@ -231,4 +239,19 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 **Nova(s) coisa(s) aprendida(s):** 
 - [Power BI DSA]  :heavy_check_mark:
 - Make Over Monday - w29
+
+------------
+ 
+ ### Day 15: 18 de Julho 2019
+ 
+ - Power BI DSA
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 1)](https://campus.datacamp.com/courses/importing-data-in-r-part-1/readr-datatable?ex=1 "Importing Data in R (Part 1)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 1) - Read functions 
+
 
