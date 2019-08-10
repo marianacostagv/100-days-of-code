@@ -265,11 +265,24 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 **Nova(s) coisa(s) aprendida(s):** 
 - Importing Data in R (Part 1) - Wrappers functions
-## Cursos 
+
 |  FUNÇÃO                    | read.csv             | read.delim             |read.table             |
 | ------------------------- | ------------------ |------------------ |------------------ |
 | Default - Header | TRUE |TRUE |FALSE |
 | Default - SEP | "," |"\t" |"definir" |
-| Default - SEP | "," |"\t" |"definir" |
 | Default - Type | csv |txt |definir |
 
+---------------------
+ ### Day 17
+  - Importing Data in R - Excel
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 1)](https://campus.datacamp.com/courses/importing-data-in-r-part-1/readr-datatable?ex=1 "Importing Data in R (Part 1)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 1) - Excel
+--readr
+ 
+ ---------------------
