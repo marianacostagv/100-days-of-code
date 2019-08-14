@@ -6,9 +6,6 @@
 Isso é um desafio por 100 dias criar um hábito de programação diária para desenvolver meus conjuntos de habilidades. 
  Mais detalhes sobre o desafio podem ser encontrados aqui: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") ou [o repositório oficial](https://github.com/Kallaway/100-days-of-code "o repositório oficial").
 
-|  Dia de inicio | Data de fim |
-| ------------ | ------------ |
-| 03 Junho, 2019 | --------|
 
 
 
@@ -24,7 +21,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Intermediate R            | :heavy_check_mark:           |
 | Intro to SQL for Data Science            | :heavy_check_mark:            |
 | Introduction to Relational Databases in SQL      | :heavy_check_mark:      |
-| Importing Data in R (Part 1)       | :sunny:            |
+| Importing Data in R (Part 1)       | :heavy_check_mark:           |
 | Joining Data in SQL      | :red_circle:          |
 | Introduction to the Tidyverse      | :red_circle:          |
 
@@ -39,7 +36,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ## Log
 
-### Day 1: 02 de Julho 2019
+### Day 1:
 
 **Progresso diario**: 
 - Criar minha página no GitHub pages
@@ -58,7 +55,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ------------
 
-### Day 2: 03 de Julho 2019
+### Day 2:
 
 **Progresso diario**: 
 - Continuei revisando HTML & CSS
@@ -70,7 +67,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - R: Vetores
 
 ------------
-### Day 3: 04 de Julho 2019
+### Day 3: 
 
 **Progresso diario**: 
 - O que são matrizes em R
@@ -83,7 +80,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Power BI: Plotar gráficos no PBI usando R
 
 ------------
-### Day 4: 05 de Julho 2019
+### Day 4: 
 
 **Progresso diario**: 
 - O que são Factors em R
@@ -97,7 +94,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Power BI: Power BI e Linguagem R
 
 ------------
-### Day 5: 06 de Julho 2019
+### Day 5: 
 
 **Progresso diario**: 
 - Finalização do curso Introduction to R
@@ -111,7 +108,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Power BI: Introdução à Estatística para Data Science
 
 ------------
-### Day 6: 07 de Julho 2019
+### Day 6: 
 
 **Progresso diario**: 
 - Intro to SQL for Data Science - Filtering rows
@@ -126,7 +123,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Intermediate R - Conditionals and Control Flow: relational operators, logical operators, conditional statements
 
 ------------
-### Day 7: 08 de Julho 2019
+### Day 7: 
 
 **Progresso diario**: 
 - Intro to SQL for Data Science - Aggregate functions
@@ -141,7 +138,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Intermediate R - Loops: While, For, Break, Next
 
 ------------
-### Day 8: 09 de Julho 2019
+### Day 8: 
 
 **Progresso diario**: 
 - Intermediate R - Functions
@@ -153,7 +150,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Intermediate R - Functions: Functions inside functions, writing function
 
 ------------
-### Day 9: 10 de Julho 2019
+### Day 9: 
 
 **Progresso diario**: 
 - Intermediate R - R packages
@@ -169,7 +166,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 >search( )
 
 ------------
-### Day 10: 11 de Julho 2019
+### Day 10:
 
 **Progresso diario**: 
 - Intermediate R - 
@@ -184,7 +181,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 
 ------------
-### Day 11: 12 de Julho 2019
+### Day 11: 
 
 **Progresso diario**: 
 - Intermediate R
@@ -198,7 +195,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Joining Data in SQL - Sorting, grouping and joins
 - Intermediate R - The apply family: diferences between lapply, saplly and vapply
 ------------
-### Day 12: 13 de Julho 2019
+### Day 12: 
 
 **Progresso diario**: 
 - Power BI DSA
@@ -210,11 +207,11 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 **Nova(s) coisa(s) aprendida(s):** 
  - Power BI DSA - Cap 12 - Introdução à estatística para Data Science parte 2
 ------------
-### [off] 14 e 15 de Julho 2019
+### [off] - 2 dias
  - Sem progresso. Estive doente
  ------------
  
- ### Day 13: 16 de Julho 2019
+ ### Day 13: 
  
  - Intermediate R
 
@@ -227,7 +224,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Intermediate R - Useful functions & Time and dates :heavy_check_mark:
 ------------
  
- ### Day 14: 17 de Julho 2019
+ ### Day 14:
  
  - Power BI DSA
 
@@ -242,7 +239,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
 ------------
  
- ### Day 15: 18 de Julho 2019
+ ### Day 15: 
  
  - Power BI DSA
 
@@ -285,18 +282,17 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 - Importing Data in R (Part 1) - Excel
 --readr
  
- ---------------------
 ---------------------
  ### Day 18
   - Importing Data in R - Excel
 
 
 **Link(s) usado(s) ou resultado(s):** 
-- [Importing Data in R (Part 1)](https://campus.datacamp.com/courses/importing-data-in-r-part-1/readr-datatable?ex=1 "Importing Data in R (Part 1)")
+- [Importing Data in R (Part 1)](https://campus.datacamp.com/courses/importing-data-in-r-part-1/readr-datatable?ex=1 "Importing Data in R (Part 1)"):heavy_check_mark:
 
 
 **Nova(s) coisa(s) aprendida(s):** 
-- Importing Data in R (Part 1) - gdata:read.xls | XLconnect: readWorkBook, getSheets, loadWorkBook, writeWorkSheet, SaveWorkSheet, renameWorkbook,r emoveSheet
+- Importing Data in R (Part 1) - gdata:read.xls | XLconnect: readWorkBook, getSheets, loadWorkBook, writeWorkSheet, SaveWorkSheet, renameWorkbook, removeSheet
 
 
  
