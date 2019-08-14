@@ -286,3 +286,18 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 --readr
  
  ---------------------
+---------------------
+ ### Day 18
+  - Importing Data in R - Excel
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 1)](https://campus.datacamp.com/courses/importing-data-in-r-part-1/readr-datatable?ex=1 "Importing Data in R (Part 1)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 1) - gdata:read.xls | XLconnect: readWorkBook, getSheets, loadWorkBook, writeWorkSheet, SaveWorkSheet, renameWorkbook,r emoveSheet
+
+
+ 
+ ---------------------
