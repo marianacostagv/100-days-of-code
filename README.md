@@ -297,3 +297,29 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 
  
  ---------------------
+ ### Day 19
+  - Importing Data in R 2 
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 2)](https://campus.datacamp.com/courses/importing-data-in-r-part-2/importing-data-from-databases-part-2?ex=1 "Importing Data in R (Part 2)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 2) - Connect to a database| library(DBI)
+
+|  Função                    | Descrição             |
+| ------------------------- | ------------------ |
+| dbListTables() | irá carregar todas as tabelas da base |
+| dbReadTables(,"")            | especifique qual tabela você deseja carregar da base        |
+| dbDisconnect        | irá desconectar da base         |
+ 
+ ---------------------
+  ### Day 20
+  - Make Over Monday
+
+
+W31/W32
+
+ 
+ ---------------------
