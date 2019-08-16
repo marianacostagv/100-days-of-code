@@ -22,6 +22,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Intro to SQL for Data Science            | :heavy_check_mark:            |
 | Introduction to Relational Databases in SQL      | :heavy_check_mark:      |
 | Importing Data in R (Part 1)       | :heavy_check_mark:           |
+| Importing Data in R (Part 2)       | :sunny:           |
 | Joining Data in SQL      | :red_circle:          |
 | Introduction to the Tidyverse      | :red_circle:          |
 
