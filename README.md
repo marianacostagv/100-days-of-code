@@ -324,3 +324,31 @@ W31/W32
 
  
  ---------------------
+  ### Day 21
+  - Importing Data in R 2 
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 2)](https://campus.datacamp.com/courses/importing-data-in-r-part-2/importing-data-from-databases-part-2?ex=1 "Importing Data in R (Part 2)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 2) - DBI Internals
+
+|  Função                    | Descrição             |
+| ------------------------- | ------------------ |
+| dbSendQuery() | irá enviar a consulta, mas não retorna o dataframe |
+| dbFetch            | função que irá buscar dados da consulta que foi executada por dbSendQuery        |
+| dbClearResult   | função libera todos os recursos associados ao conjunto de resultados da função dbSendQuery()       |
+
+---------------------
+  ### Day 21
+  - Importing Data in R (Part 2) - HTTP
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 2)](https://campus.datacamp.com/courses/importing-data-in-r-part-2/importing-data-from-databases-part-2?ex=1 "Importing Data in R (Part 2)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 2) - HTTP
