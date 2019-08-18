@@ -352,3 +352,9 @@ W31/W32
 
 **Nova(s) coisa(s) aprendida(s):** 
 - Importing Data in R (Part 2) - HTTP
+
+|  Função                    | Descrição             |
+| ------------------------- | ------------------ |
+| file.path(,"") | irá especificar o caminho no qual você irá salvar o arquivo |
+| download.file(,) | irá salvar o arquivo no caminho direicionado em file.path |
+
