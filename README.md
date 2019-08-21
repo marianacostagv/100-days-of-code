@@ -357,4 +357,42 @@ W31/W32
 | ------------------------- | ------------------ |
 | file.path(,"") | irá especificar o caminho no qual você irá salvar o arquivo |
 | download.file(,) | irá salvar o arquivo no caminho direicionado em file.path |
+---------------------
+ ### Day 23
+  - Importing Data in R (Part 2) - API & JSON
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 2)](https://campus.datacamp.com/courses/importing-data-in-r-part-2/importing-data-from-databases-part-2?ex=1 "Importing Data in R (Part 2)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 2) - API & JSON
+- Pacotes
+***install.packages("jsonlite") 
+
+|  Função                    | Descrição             |
+| ------------------------- | ------------------ |
+| fromJSON("url") | irá transformar o código JSON em uma lista |
+
+ ### Day 24
+  - Importing Data in R (Part 2) - Statistical Software Packges
+  - Heaven e Foreing
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Importing Data in R (Part 2)](https://campus.datacamp.com/courses/importing-data-in-r-part-2/importing-data-from-databases-part-2?ex=1 "Importing Data in R (Part 2)")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
+- Importing Data in R (Part 2) - Heaven e Foreing
+- Pacotes
+***install.packages("haven") 
+
+|  Função                    | Descrição             |
+| ------------------------- | ------------------ |
+| read_sas | irá carregar um arquivo SAS |
+| read_stata | irá carregar um arquivo STATA |
+| read_spss | irá carregar um arquivo SPSS |
+
 
