@@ -395,4 +395,4 @@ W31/W32
 | read_stata | irá carregar um arquivo STATA |
 | read_spss | irá carregar um arquivo SPSS |
 
-
+![statisticak](https://user-images.githubusercontent.com/14565450/63395623-ac9f1f00-c39a-11e9-92b9-06db96e70f7d.PNG)
