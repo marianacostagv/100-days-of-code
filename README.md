@@ -22,9 +22,10 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Intro to SQL for Data Science            | :heavy_check_mark:            |
 | Introduction to Relational Databases in SQL      | :heavy_check_mark:      |
 | Importing Data in R (Part 1)       | :heavy_check_mark:           |
-| Importing Data in R (Part 2)       | :sunny:           |
-| Joining Data in SQL      | :red_circle:          |
+| Importing Data in R (Part 2)       |:heavy_check_mark:      |
+| Joining Data in SQL      |  :sunny:           |
 | Introduction to the Tidyverse      | :red_circle:          |
+| Cleaning Data in R     | :red_circle:          |
 
 
 
@@ -342,7 +343,7 @@ W31/W32
 | dbClearResult   | função libera todos os recursos associados ao conjunto de resultados da função dbSendQuery()       |
 
 ---------------------
-  ### Day 21
+  ### Day 22
   - Importing Data in R (Part 2) - HTTP
 
 
@@ -396,3 +397,14 @@ W31/W32
 | read_spss | irá carregar um arquivo SPSS |
 
 ![statisticak](https://user-images.githubusercontent.com/14565450/63395623-ac9f1f00-c39a-11e9-92b9-06db96e70f7d.PNG)
+
+---------------------
+  ### Day 25
+  - Joining Data in SQL  
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Joining Data in SQL](https://campus.datacamp.com/courses/joining-data-in-postgresql/introduction-to-joins?ex=1 "Joining Data in SQL")
+
+
+**Nova(s) coisa(s) aprendida(s):** 
