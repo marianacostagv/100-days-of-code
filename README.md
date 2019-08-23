@@ -24,7 +24,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Importing Data in R (Part 1)       | :heavy_check_mark:           |
 | Importing Data in R (Part 2)       |:heavy_check_mark:      |
 | Joining Data in SQL      |  :sunny:           |
-| Introduction to the Tidyverse      | :red_circle:          |
+| Introduction to the Tidyverse      |  :sunny:         |
 | Cleaning Data in R     | :red_circle:          |
 
 
@@ -400,7 +400,7 @@ W31/W32
 
 ---------------------
   ### Day 25
-  - Joining Data in SQL  
+  - Joining Data in SQL  - Inner Join
 
 
 **Link(s) usado(s) ou resultado(s):** 
@@ -408,3 +408,35 @@ W31/W32
 
 
 **Nova(s) coisa(s) aprendida(s):** 
+
+ `SELECT p1.country, p1.continent, p1.prime_minister, p2.president
+FROM prime_minister AS p1
+INNER JOIN president AS p2
+ON p1.country = p2.country_code`
+
+---------------------
+ ### Day 25
+  - Joining Data in SQL: Inner join via USING 
+   - Introduction to the Tidyverse: The filter verb, the arrange verb, the mutate verb
+  
+  #### Self-ish joins, just in CASE
+  ##### CASE WHEN and THEN
+  `SELECT NAME, CONTINENT, INDEP_YEAR
+  CASE WHEN INDEP_YEAR<1900 THE ´BEFORE 1900´
+  WHEN INDEP_YEAR <= 1930 THEN ´BETWEEN 1900 AND 1930´
+  ELSE ´AFTER 1930´ END
+  AS INDEP_YEAR_GROUP
+  FROM STATES
+  ORDER BY INDEP_YEAR_GROUP`
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Joining Data in SQL](https://campus.datacamp.com/courses/joining-data-in-postgresql/introduction-to-joins?ex=1 "Joining Data in SQL")
+- [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse")
+
+**Nova(s) coisa(s) aprendida(s):** 
+|  Library                    | Pra que serve             |
+| ------------------------- | ------------------ |
+| library(gapminder) | irá mostrar as observações de cada variável e também a estrutura de cada |
+| library(dplyr) | []em aberto |
+
+
