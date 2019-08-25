@@ -440,3 +440,26 @@ ON p1.country = p2.country_code`
 | library(dplyr) | []em aberto |
 
 
+
+____________
+ ### Day 26
+
+   - Introduction to the Tidyverse: Visualizing data with ggplot
+  
+  ##### Variable assingment: save the data filter to a new dataframe
+  `ggplot(gapminder_2007,aes(x = gdpPercap, y = lifeExp))+geom_ponit()`
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse")
+
+**Nova(s) coisa(s) aprendida(s):** 
+|  Library                    | Pra que serve             |
+| ------------------------- | ------------------ |
+| library(ggplot2) |plotar gráficos |
+
+|  Função                    | Pra que serve             |
+| ------------------------- | ------------------ |
+| scale_x_log10() or  scale_y_log10() | irá plotar as coordenadas do gráfico com base numa base de log10 |
+|size = continent | irá plotar as cores de acordo com a variável "continent"|
+|facet_wrap(~continent) | irá dividir o gráfico de acordo com o critério de alguma variável|
+
