@@ -469,26 +469,43 @@ ____________
 | scale_x_log10() or  scale_y_log10() | irá plotar as coordenadas do gráfico com base numa base de log10 |
 |size = continent | irá plotar as cores de acordo com a variável "continent"|
 |facet_wrap(~continent) | irá dividir o gráfico de acordo com o critério de alguma variável|
-
+_________________________
  ### Day 27
 
    - Introduction to the Tidyverse: The summarize verb
   ![sumarize verb](https://user-images.githubusercontent.com/14565450/63652610-8e3d7880-c738-11e9-8275-aba0393a0eb3.PNG)
-  ##### Variable assingment: save the data filter to a new dataframe
-  `ggplot(gapminder_2007,aes(x = gdpPercap, y = lifeExp))+geom_ponit()`
+ 
 
 **Link(s) usado(s) ou resultado(s):** 
 - [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse")
 
 **Nova(s) coisa(s) aprendida(s):** 
-|  Library                    | Pra que serve             |
+|  Função                    | Pra que serve             |
 | ------------------------- | ------------------ |
-| library(ggplot2) |plotar gráficos |
+| expand_limits(y=0) |indicar que o eixo y deve começar a partir de zero |
+#### summarize
+`gapminder %>% 
+filter(year == 2007) %>%
+summarize(meanLifeExp = mean(lifeExp), totalpop = suma(pop))`
+#### group_by
+`gapminder %>% 
+group_by(year) %>%
+summarize(meanLifeExp = mean(lifeExp), totalpop = suma(pop)) +expand_limits(y=0)`
+_________________________
+ ### Day 29
+
+   - Introduction to the Tidyverse: Line Plots
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse")
+
+**Nova(s) coisa(s) aprendida(s):** 
 
 |  Função                    | Pra que serve             |
 | ------------------------- | ------------------ |
-| scale_x_log10() or  scale_y_log10() | irá plotar as coordenadas do gráfico com base numa base de log10 |
-|size = continent | irá plotar as cores de acordo com a variável "continent"|
-|facet_wrap(~continent) | irá dividir o gráfico de acordo com o critério de alguma variável|
-
-
+| geom_line() | irá plotar em gráfico de linha |
+|geom_col() | irá plotar em gráfico de barras|
+|geom_histogram() | irá plotar em gráfico de hitogramas|
+|geom_boxplot() | irá plotar em gráfico de boxplot|
+|ggtitle("titulo")| irá adicionar um título para o gráfico|
