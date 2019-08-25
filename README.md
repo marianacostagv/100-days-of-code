@@ -419,6 +419,12 @@ ON p1.country = p2.country_code`
   - Joining Data in SQL: Inner join via USING 
    - Introduction to the Tidyverse: The filter verb, the arrange verb, the mutate verb
   
+![filter](https://user-images.githubusercontent.com/14565450/63652624-af05ce00-c738-11e9-9741-4e6c437344d4.PNG)
+
+
+![mutate](https://user-images.githubusercontent.com/14565450/63652629-b6c57280-c738-11e9-8930-f5627cad06d1.PNG)
+
+![arrange](https://user-images.githubusercontent.com/14565450/63652633-bdec8080-c738-11e9-9b6e-fc44a0e344e5.PNG)
   #### Self-ish joins, just in CASE
   ##### CASE WHEN and THEN
   `SELECT NAME, CONTINENT, INDEP_YEAR
@@ -440,6 +446,7 @@ ON p1.country = p2.country_code`
 | library(dplyr) | []em aberto |
 
 
+![tydevesve](https://user-images.githubusercontent.com/14565450/63652621-9e555800-c738-11e9-9c95-c7eb2fd9dbaf.PNG)
 
 ____________
  ### Day 26
@@ -462,4 +469,26 @@ ____________
 | scale_x_log10() or  scale_y_log10() | irá plotar as coordenadas do gráfico com base numa base de log10 |
 |size = continent | irá plotar as cores de acordo com a variável "continent"|
 |facet_wrap(~continent) | irá dividir o gráfico de acordo com o critério de alguma variável|
+
+ ### Day 27
+
+   - Introduction to the Tidyverse: The summarize verb
+  ![sumarize verb](https://user-images.githubusercontent.com/14565450/63652610-8e3d7880-c738-11e9-8275-aba0393a0eb3.PNG)
+  ##### Variable assingment: save the data filter to a new dataframe
+  `ggplot(gapminder_2007,aes(x = gdpPercap, y = lifeExp))+geom_ponit()`
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse")
+
+**Nova(s) coisa(s) aprendida(s):** 
+|  Library                    | Pra que serve             |
+| ------------------------- | ------------------ |
+| library(ggplot2) |plotar gráficos |
+
+|  Função                    | Pra que serve             |
+| ------------------------- | ------------------ |
+| scale_x_log10() or  scale_y_log10() | irá plotar as coordenadas do gráfico com base numa base de log10 |
+|size = continent | irá plotar as cores de acordo com a variável "continent"|
+|facet_wrap(~continent) | irá dividir o gráfico de acordo com o critério de alguma variável|
+
 
