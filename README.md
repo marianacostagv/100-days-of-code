@@ -23,8 +23,10 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Introduction to Relational Databases in SQL      | :heavy_check_mark:      |
 | Importing Data in R (Part 1)       | :heavy_check_mark:           |
 | Importing Data in R (Part 2)       |:heavy_check_mark:      |
+| Introduction to the Tidyverse      |  :heavy_check_mark:        |
 | Joining Data in SQL      |  :sunny:           |
-| Introduction to the Tidyverse      |  :sunny:         |
+|Data Visualization with ggplot2 (Part 1)|:red_circle:      |
+|Communicating with Data in the Tidyverse|:red_circle:  |
 | Cleaning Data in R     | :red_circle:          |
 
 
@@ -498,7 +500,7 @@ _________________________
 
 
 **Link(s) usado(s) ou resultado(s):** 
-- [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse")
+- [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to the Tidyverse"):heavy_check_mark:
 
 **Nova(s) coisa(s) aprendida(s):** 
 
