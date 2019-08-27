@@ -511,3 +511,14 @@ _________________________
 |geom_histogram() | irá plotar em gráfico de hitogramas|
 |geom_boxplot() | irá plotar em gráfico de boxplot|
 |ggtitle("titulo")| irá adicionar um título para o gráfico|
+
+_________________________
+ ### Day 30
+
+
+#### Practice day
+###### Introduction to the Tidyverse
+###### Intermediate R
+###### Joining Data in SQL
+
+
