@@ -515,10 +515,15 @@ _________________________
 _________________________
  ### Day 30
 
-
 #### Practice day
 ###### Introduction to the Tidyverse
 ###### Intermediate R
 ###### Joining Data in SQL
 
+
+
+_________________________
+ ### Day 31
+ 
+ #### Make Over Monday W32
 
