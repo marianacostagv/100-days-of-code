@@ -417,7 +417,7 @@ INNER JOIN president AS p2
 ON p1.country = p2.country_code`
 
 ---------------------
- ### Day 25
+ ### Day 26
   - Joining Data in SQL: Inner join via USING 
    - Introduction to the Tidyverse: The filter verb, the arrange verb, the mutate verb
   
@@ -451,7 +451,7 @@ ON p1.country = p2.country_code`
 ![tydevesve](https://user-images.githubusercontent.com/14565450/63652621-9e555800-c738-11e9-9c95-c7eb2fd9dbaf.PNG)
 
 ____________
- ### Day 26
+ ### Day 27
 
    - Introduction to the Tidyverse: Visualizing data with ggplot
   
@@ -472,7 +472,7 @@ ____________
 |size = continent | irá plotar as cores de acordo com a variável "continent"|
 |facet_wrap(~continent) | irá dividir o gráfico de acordo com o critério de alguma variável|
 _________________________
- ### Day 27
+ ### Day 28
 
    - Introduction to the Tidyverse: The summarize verb
   ![sumarize verb](https://user-images.githubusercontent.com/14565450/63652610-8e3d7880-c738-11e9-8275-aba0393a0eb3.PNG)
@@ -526,4 +526,18 @@ _________________________
  ### Day 31
  
  #### Make Over Monday W32
+ 
+ _________________________
+ ### Day 32
 
+   -  Joining Data in SQL  
+
+
+**Link(s) usado(s) ou resultado(s):** 
+- [Joining Data in SQL](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Joining Data in SQL")
+
+**Nova(s) coisa(s) aprendida(s):** 
+ Joining Data in SQL: LEFT and RIGHT join
+
+_________________________
+ ### Day 33
