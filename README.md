@@ -27,7 +27,7 @@ Isso é um desafio por 100 dias criar um hábito de programação diária para d
 | Joining Data in SQL      |  :sunny:           |
 |Data Visualization with ggplot2 (Part 1)|:red_circle:      |
 |Communicating with Data in the Tidyverse|:red_circle:  |
-| Cleaning Data in R     | :red_circle:          |
+| Cleaning Data in R     | :heavy_check_mark:           |
 
 
 
@@ -540,4 +540,53 @@ _________________________
  Joining Data in SQL: LEFT and RIGHT join
 
 _________________________
- ### Day 33
+ ### Day 33 | Day 35
+  - Introduction to cleanin data in R
+### library(dplr)
+
+**Nova(s) coisa(s) aprendida(s):** 
+|  Função                    | Pra que serve             |
+| ------------------------- | ------------------ |
+| glimpsee() |funciona de modo semelhante ao str |
+| head( df,7) |irá mostrar as 7 primeiras linhas do data.frame |
+| tail( df,7) |irá mostrar as 7 últimas linhas do data.frame |
+|gather()| reorganizar as colunas|
+
+
+#### gather: organize columns into key-value pairs
+`gather(wide_df, my_key, my_val, -col)
+wide_df:data frame
+my_key: bare name of new key column
+-col: coluna referencia
+`
+### library(lubridate): trabalhar com a organização de datas
+
+**Nova(s) coisa(s) aprendida(s):** 
+|  Função                    | Pra que serve |
+| ------------------------- | ------------------ |
+| ymd() | irá retornar ano, mês e dia de uma data nessa respectiva ordem |
+| ymd_hms( df,7) |irá retornar ano, mês e dia de uma data com hora, minuto e segundo nessa respectiva ordem |
+
+### library(strigr): trabalhar com a manipulação de strings
+
+
+
+|  Função                    | Pra que serve |
+| ------------------------- | ------------------ |
+| str_trim() | irá retirar os espaços vazios |
+| str_pad() | irá substituir os espaços vazios por um caractere determiado de acordo com o tamanho determiado |
+| str_detect() | irá detectar a presença de um determinado texto |
+| str_replace() | irá substituir um determinado texto por outro |
+
+- `str_pad("24493", width = 7, side = "left", pad = "0")`
+- `str_detect(friends, "Alice")`
+- `str_replace(students$sex, "F","Female")`
+
+### Dealing with missing Values
+- complete_cases(): para cada linha irá atribuir um valor de true ou false, com TRUE se não tiver valor perdido e FALSE se tiver
+- `complete_cases(students)`
+
+- na.omit(): para cada linha que tiver valor nulo, riá remove-la
+- `na.omit(students)`
+
+
