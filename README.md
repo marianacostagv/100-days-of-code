@@ -589,4 +589,6 @@ my_key: bare name of new key column
 - na.omit(): para cada linha que tiver valor nulo, riá remove-la
 - `na.omit(students)`
 
+### Day 36 | 37
+-Introduction to Python
 
