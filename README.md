@@ -590,5 +590,15 @@ my_key: bare name of new key column
 - `na.omit(students)`
 
 ### Day 36 | 37
--Introduction to Python
+- Introduction to Python
+**Link(s) usado(s) ou resultado(s):** 
+- [Introduction to Python](https://www.datacamp.com/courses/introduction-to-the-tidyverse "Introduction to Python")
 
+**Nova(s) coisa(s) aprendida(s):** 
+ - Numpy
+
+### Day 38
+
+- Python Básico
+**Link(s) usado(s) ou resultado(s):** 
+ - [Python Básico](https://solyd.com.br/treinamentos/python-basico "Python Básico")
