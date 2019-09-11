@@ -602,3 +602,11 @@ my_key: bare name of new key column
 - Python Básico
 **Link(s) usado(s) ou resultado(s):** 
  - [Python Básico](https://solyd.com.br/treinamentos/python-basico "Python Básico")
+ 
+ ### Day 39
+
+- Python Básico
+**Link(s) usado(s) ou resultado(s):** 
+ - [Python Básico](https://solyd.com.br/treinamentos/python-basico "Python Básico")
+ **Nova(s) coisa(s) aprendida(s):** 
+ - Strings e estruturas de laços
