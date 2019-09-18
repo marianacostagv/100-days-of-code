@@ -610,3 +610,10 @@ my_key: bare name of new key column
  - [Python Básico](https://solyd.com.br/treinamentos/python-basico "Python Básico")
  **Nova(s) coisa(s) aprendida(s):** 
  - Strings e estruturas de laços
+  ### Day 40|45
+
+- Python Básico
+**Link(s) usado(s) ou resultado(s):** 
+ - [Python Básico](https://solyd.com.br/treinamentos/python-basico "Python Básico")
+ **Nova(s) coisa(s) aprendida(s):** 
+ - Curso finalizado
