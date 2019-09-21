@@ -1,7 +1,8 @@
 ### Day 40 
  
  - Intermediate Python for Data Science
- **Link(s) usado(s) ou resultado(s):** 
+
+**Link(s) usado(s) ou resultado(s):** 
  
  - [Intermediate Python for Data Science](https://campus.datacamp.com/courses/intermediate-python-for-data-science/dictionaries-pandas?ex=14 "Intermediate Python for Data Science")
  
