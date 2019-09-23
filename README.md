@@ -636,8 +636,8 @@ my_key: bare name of new key column
 ● Row access 
 ● Column access 
 ● Row & Column access
-brics[["country", "capital"]]
-brics[1:4]
-brics.loc[["RU", "IN", "CH"]]
-brics.loc[:, ["country", "capital"]]
-brics.loc[["RU", "IN", "CH"], ["country", "capital"]]''
+- brics[["country", "capital"]]
+- brics[1:4]
+- brics.loc[["RU", "IN", "CH"]]
+- brics.loc[:, ["country", "capital"]]
+- brics.loc[["RU", "IN", "CH"], ["country", "capital"]]''
