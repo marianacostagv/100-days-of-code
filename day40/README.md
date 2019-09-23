@@ -12,13 +12,13 @@
 - DataFrame from CSV file
 - Pandas: Column Access, Row Access, Row Access loc, Row & Column loc, Row & Column iloc
 ### Recap
-- ● Square brackets 
-- ● Column access 
-- ● Row access: only through slicing 
-- ● loc (label-based) 
-- ● Row access 
-- ● Column access 
-- ● Row & Column access
+##### Square brackets 
+##### Column access 
+##### Row access: only through slicing 
+##### loc (label-based) 
+##### Row access 
+##### Column access 
+##### Row & Column access
 - brics[["country", "capital"]]
 - brics[1:4]
 - brics.loc[["RU", "IN", "CH"]]
