@@ -4,9 +4,7 @@
 
 
 This is a challenge for 100 days to create a daily programming habit to develop my skill sets.
- More details about the challenge can be found here: [100daysofcode.com] (http://100daysofcode.com/ "100daysofcode.com") or [the official repository] (https://github.com/Kallaway/100-days -of-code "the official repository").
-
-
+ More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/100daysofcode.com) or [the official repository](https://github.com/Kallaway/100-days-of-code-the-official-repository).
 
 
 
@@ -25,11 +23,12 @@ This is a challenge for 100 days to create a daily programming habit to develop 
 | Importing Data in R (Part 1)       | :heavy_check_mark:           |
 | Importing Data in R (Part 2)       |:heavy_check_mark:      |
 | Introduction to the Tidyverse      |  :heavy_check_mark:        |
+| Introduction to Python      |  :heavy_check_mark:        |
+| Intermediate Python      |  :sunny:           |
 | Joining Data in SQL      |  :sunny:           |
-|Data Visualization with ggplot2 (Part 1)|:red_circle:      |
-|Communicating with Data in the Tidyverse|:red_circle:  |
+| Data Visualization with ggplot2 (Part 1)|:red_circle:      |
+| Communicating with Data in the Tidyverse|:red_circle:  |
 | Cleaning Data in R     | :heavy_check_mark:           |
-
 
  
 :heavy_check_mark: Finished
