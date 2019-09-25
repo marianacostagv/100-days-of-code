@@ -41,4 +41,7 @@ print(brics)`
 `brics["name_length"] = brics["country"].apply(len)`
 `cars["COUNTRY"] = cars["country"].apply(str.upper)`
 
+---------------------
+
 ## [Files_used](https://github.com/mrncstt/100-days-of-code/tree/master/files/datacamp/python/Intermediate_Python_for_Data_Science "Files_used") :clipboard:
+## [Log_day](https://github.com/mrncstt/100-days-of-code/blob/master/README.md "Log_day")  :scroll:
