@@ -19,3 +19,8 @@
 ###### Step 1: select the area comumn :arrow_right: brics["area"] or brics.loc[:"area"] or brics.iloc[:,2]
 ###### Step 2: do comparison on area column :arrow_right: is_huge = brics["area"] >8
 ###### Step 3: use result to select countries :arrow_right: brics[is_huge]
+
+----------------
+
+## [Files_used](https://github.com/mrncstt/100-days-of-code/tree/master/files/datacamp/python/Intermediate_Python_for_Data_Science "Files_used") :file_folder:
+## [Log_day](https://github.com/mrncstt/100-days-of-code/blob/master/README.md "Log_day")  :scroll:
