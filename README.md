@@ -1,6 +1,6 @@
 # 100-days-of-code-log
 
-**Main target:** ***Eu irei programar por pelo menos uma hora todos os dias pelos próximos 100 dias.***
+**Main target:** ***I will schedule for at least one hour every day for the next 100 days.***
 
 
 This is a challenge for 100 days to create a daily programming habit to develop my skill sets.
