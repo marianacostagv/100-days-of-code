@@ -41,28 +41,14 @@ Week 1 | Week 2 | Week 3 |  Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 
 
 
 
+<b>Newsletter: [Signup here](https://mailchi.mp/38a7fabad1da/mrncstt)</b>
+
+<b>Blog: [Medium](https://medium.com/@mrncstt)</b> or [Dev.To](https://dev.to/mrncstt)</b> Follow me here to get detailed notes on each project.
+
+<b>Twitter: [@HariniLabs](https://twitter.com/mrncstt)</b> I would like to hear receive feedback and comments, feel free to drop by and say Yay!
+
+<b>[Website](https://mrncstt.github.io/)</b>
+
 -------------------
-### Take One
+[Take One](https://github.com/mrncstt/100-days-of-code/blob/master/day/takeone.md)
 
-#### Courses 
-|  Course                    | Status             |
-| ------------------------- | ------------------ |
-| Introdução a R - DataCamp | :heavy_check_mark: |
-| Power BI - DSA            | :heavy_check_mark:         |
-| Intermediate R            | :heavy_check_mark:           |
-| Intro to SQL for Data Science            | :heavy_check_mark:            |
-| Introduction to Relational Databases in SQL      | :heavy_check_mark:      |
-| Importing Data in R (Part 1)       | :heavy_check_mark:           |
-| Importing Data in R (Part 2)       |:heavy_check_mark:      |
-| Introduction to the Tidyverse      |  :heavy_check_mark:        |
-| Introduction to Python      |  :heavy_check_mark:        |
-| Intermediate Python      |  :sunny:           |
-| Joining Data in SQL      |  :sunny:           |
-| Data Visualization with ggplot2 (Part 1)|:red_circle:      |
-| Communicating with Data in the Tidyverse|:red_circle:  |
-| Cleaning Data in R     | :heavy_check_mark:           |
-
- 
-:heavy_check_mark: Finished
-:sunny: In progress
-:red_circle: Not started
