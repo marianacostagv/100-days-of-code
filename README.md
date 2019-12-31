@@ -45,7 +45,7 @@ Week 1 | Week 2 | Week 3 |  Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 
 
 <b>Blog: [Medium](https://medium.com/@mrncstt)</b> or [Dev.To](https://dev.to/mrncstt)</b> Follow me here to get detailed notes on each project.
 
-<b>Twitter: [@HariniLabs](https://twitter.com/mrncstt)</b> I would like to hear receive feedback and comments, feel free to drop by and say Yay!
+<b>Twitter: [@mrncstt](https://twitter.com/mrncstt)</b> I would like to hear receive feedback and comments, feel free to drop by and say Yay!
 
 <b>[Website](https://mrncstt.github.io/)</b>
 
