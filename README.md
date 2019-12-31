@@ -43,11 +43,11 @@ Week 1 | Week 2 | Week 3 |  Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 
 
 <b>Newsletter: [Signup here](https://mailchi.mp/38a7fabad1da/mrncstt)</b>
 
-<b>Blog: [Medium](https://medium.com/@mrncstt)</b> or [Dev.To](https://dev.to/mrncstt)</b> Follow me here to get detailed notes on each project.
+<b>Blog: [Medium](https://medium.com/@mrncstt)</b> or <b>[Dev.To](https://dev.to/mrncstt)</b> Follow me here to get detailed notes on each project.
 
-<b>Twitter: [@mrncstt](https://twitter.com/mrncstt)</b> I would like to hear receive feedback and comments, feel free to drop by and say Yay!
+<b>Twitter: [@mrncstt](https://twitter.com/mrncstt)</b> I would like to receive feedback and comments, feel free to drop by and say Yay!
 
-<b>[Website](https://mrncstt.github.io/)</b>
+<b>Site: [Site](https://mrncstt.github.io/)</b>
 
 -------------------
 [Take One](https://github.com/mrncstt/100-days-of-code/blob/master/day/takeone.md)
