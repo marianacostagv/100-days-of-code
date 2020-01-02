@@ -3,13 +3,13 @@
 ### Day 1:
 
 **Daily Progress**: 
-- Progress
+- Ch5 Resampling Methods
 
 **Links:** 
-- [Links](https://mrncstt.github.io/ "Minha pagina no GitHub")
+- [Links](https://github.com/mrncstt/Statistical_Learning/blob/master/Chpt%205%20-%20Resampling%20Methods/readme.md)
 
 **New knowledges:** 
-- knowledge
+- Cross validation, k-fold cross validation, bootstrap, R
 
 
 
