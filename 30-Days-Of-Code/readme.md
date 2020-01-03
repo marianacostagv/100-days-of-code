@@ -8,7 +8,7 @@
 ### The following is the list of problem statements and solutions:-
 #
 
-- **Day0**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/day1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day10**: [Question](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/Day10) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day0**: [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/day0) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day10**: [Question](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/Day10) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Day20**: [Question](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/Day20)
 
 - **Day1**: [Question](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/Day1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day11**: [Question](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solutions](https://github.com/mrncstt/100-days-of-code/tree/master/30-Days-Of-Code/Day11) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
