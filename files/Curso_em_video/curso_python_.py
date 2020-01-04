@@ -110,4 +110,254 @@ atual = float(input('insira seu salário atual:'))
 aumento = atual*1.15
 print('seu salário atual é de {} reais'.format(aumento))
 
-"""# Curso Python #08 - Utilizando Módulos"""
+"""# Curso Python #08 - Utilizando Módulos
+- Instalando bibliotecas #!pip install emoji
+- Importando bibliotecas #import emoji
+#### from math import sqrt, floor vai trazer só esses dois parâmetros, a vantagem é que não precisa usar o método math antes de usar
+"""
+
+#from math import sqrt, floor #vai trazer só esses dois parâmetros, a vantagem é que não precisa usar o método math antes de usar
+import math
+num = int(input('digite um numero: '))
+raiz = math.sqrt(num)
+#raiz = sqrt(num)
+print('a raiz de {} é {}'.format(num, math.ceil(raiz))) #ceil arredonda para cima
+
+import random 
+num = random.randint(1,10) #trazendo um número alatório inteiro de 1 a 10
+print(num)
+
+!pip install emoji #instalar um pacote
+import emoji
+print(emoji.emojize('olá, galera :kiss:'))
+
+#Desafio 16
+import math
+num = float(input('insira um número real: '))
+real = math.floor(num)
+print('a parte real é {} '.format(real))
+
+#Desafio 17
+import math
+c1 = float(input('insira o valor do cateto 1: '))
+c2 = float(input('insira o valor do cateto 2: '))
+hipotenusa = math.sqrt((c1**2)+(c2**2))
+print('o valor da hipotenusa é {}'.format(hipotenusa))
+
+#Desafio 18
+import math
+an = float(input('insira o angulo:'))
+#r = math.radians(an)
+s = math.sin(math.radians(an))
+c = math.cos(math.radians(an))
+t = math.tan(math.radians(an))
+print('para um angulo de {} graus, o seno é {}, o cosseno é {} e a tangente é {}'.format(an, s, c, t))
+
+#Desafio 19
+import random
+n1 = str(input('nome do aluno 1: '))
+n2 = str(input('nome do aluno 2: '))
+n3 = str(input('nome do aluno 3: '))
+n4 = str(input('nome do aluno 4: '))
+
+sala = [n1, n2, n3, n4]
+aluno = random.choice(sala)
+print('o aluno escolhido é {}'.format(aluno))
+
+#Desafio 20
+
+import random
+n1 = str(input('nome do aluno 1: '))
+n2 = str(input('nome do aluno 2: '))
+n3 = str(input('nome do aluno 3: '))
+n4 = str(input('nome do aluno 4: '))
+
+sala = [n1, n2, n3, n4]
+random.shuffle(sala)
+print(sala)
+
+#Desafio 21
+
+import IPython.display
+IPython.display.Audio(url="http://www.nch.com.au/acm/8k16bitpcm.wav")
+
+"""Curso Python #09 - Manipulando Texto
+- Analise
+- Transformação
+- Divisão
+- Junção
+"""
+
+frase = 'curso em video python'
+frase[9] #está pegando o 10º elemento da cadeira de caracteres
+frase[9:13] #o primeiro elemento pertence e o ultimo 
+frase[9:21]
+frase[9:21:2] #pulando de 2 em 2
+frase[:5] #começa no inicio e vai até o 4
+frase[15:] #do 15 até o final
+frase[9::3] #começa no 9, vai até o final, pulando de 3 em 3
+
+#Analise
+
+len(frase) #vai mostrar a quantidade de caracteres que tem na frase
+frase.count('o',0,13) #vai contar quantas vezes aparece a letra o minuscula do zero até o 12
+frase.find('deo') #vai mostrar em qual momento começa a primeira letra da procura
+frase.find('android') #vai dar o valor -1 dizendo que não existe
+'curso' in frase #vai dizer se existe o valor no texto
+
+#Transformação
+
+frase.replace('python', 'android') #substitui python por android
+frase.upper() #vai deixar o texto em maiusculo
+frase.lower() #vai deixar o texto em minusculo
+frase.capitalize() #so o primeiro caractere fica em maiusculo
+frase.title() #deixa todas as primeiras palavras em maiusculo
+
+frase = '   aprenda python  ' 
+frase.strip() #remove todos os espaços desnecessários
+frase.rstrip() #remove todos os espaços desnecessários somente da direita
+frase.lstrip() #remove todos os espaços desnecessários somente da esquerda
+
+#Divisão
+frase = 'curso em video python'
+frase.split() #divisão da string considerando os espaços e cada palavra recebe indexação nova
+
+#Junção
+'-'.join(frase)
+
+#Desafio 22
+nome = str(input('insira o seu nome: '))
+print(nome.upper())
+print(nome.lower())
+print(len(nome.strip(' ')))
+print(len(nome)-nome.count(' '))
+primeironome = nome.split()
+print(len(primeironome[0]))
+
+#Desafio 23
+numero = int(input("insira um número de 0 a 9999: "))
+numerodivido = str(numero)
+print(numero)
+print('o primeiro número de {} é {}'.format(numero, numerodivido[0]))
+print('o segundo número de {} é {}'.format(numero, numerodivido[1]))
+print('o terceiro número de {} é {}'.format(numero, numerodivido[2]))
+print('o quarto número de {} é {}'.format(numero, numerodivido[3]))
+
+#Desafio24
+cidade=str(input('Insira o nome da cidade:'))
+cidadesplit=cidade.split()
+print('O nome da cidade começa com santo?', 'Santo' in cidadesplit[0])
+
+#Desafio 25
+nome = str(input('insira o nome da pessoa: '))
+silva = 'silva' in nome
+print(silva)
+
+#Desafio 26
+frase = str(input('insira uma frase: '))
+print(frase.count('a'))
+print(frase.find('a'))
+print(frase.rfind('a'))
+
+#Desafio 27
+nome = str(input('Insira o nome de uma pessoa: '))
+print(nome.split()[0])
+print(nome.split()[-1])
+
+"""Curso Python #10 - Condições (Parte 1)
+
+
+- if
+- else
+"""
+
+nome = str(input('insira o nome:'))
+if nome=='Gustavo':
+  print('olá gustavo')
+else:
+  print('olá {}, que nome lindo você tem'.format(nome))
+
+n1 = float(input('insira a primeira nota: '))
+n2 = float(input('insira a segunda nota: '))
+m = (n1+n2)/2
+if m >= 7:
+  print('aprovado com nota {:.1f}'.format(m))
+else:
+  print('reprovado')
+
+#Desafio 29
+#from math import floor
+velocidade = float(input('insira a velocidade: ')) 
+velocidademaxima = 80
+multaporkm = 7
+multa = (int(velocidade)-velocidademaxima)*multaporkm
+if velocidade > 80:
+  print('a multa é de {} reais'.format(multa))
+else:
+  print('continue dirigindo corretamente')
+
+#Desafio 30
+
+numero = int(input('insira um número inteiro: '))
+resto = numero % 2
+if resto==0:
+  print('par')
+else:
+  print('impar')
+
+#Desafio 31
+distancia = float(input('insira a distancia da sua viagem: '))
+kmlongo = 0.45
+kmperto = 0.5
+precoperto = distancia*kmperto
+precolonge = distancia*kmlongo
+if distancia > 200:
+  print('o preço da viagem pe {:.1f}'.format(precolonge))
+else:
+  print('o preço da viagem pe {:.1f}'.format(precoperto))
+
+#Desafio 32
+dias = int(input('insira o numero de dias do ano'))
+if dias>365:
+  print('bissesto')
+else:
+  print('ano normal')
+
+#Desafio 33
+n1 = float(input('insira um numero: '))
+n2 = float(input('insira um numero: '))
+n3 = float(input('insira um numero: '))
+
+if n1>n2 and n1>n3:
+  print('o maior numero é {}'.format(n1))
+if n2>n1 and n2>n3:
+  print('o maior numero é {}'.format(n2))
+if n3>n2 and n3>n1:
+  print('o maior numero é {}'.format(n3))
+if n1<n2 and n1<n3:
+  print('o maior numero é {}'.format(n1))
+if n2<n1 and n2<n3:
+  print('o maior numero é {}'.format(n2))
+if n3<n2 and n3<n1:
+  print('o maior numero é {}'.format(n3))
+
+#Desafio 34
+salario = float(input('insira o seu salario: '))
+dez = 1.1
+quinze = 1.15
+salariodez = salario*dez
+salarioquinze = salario*quinze
+if salario <=1200:
+  print('o novo salário é {}'.format(salarioquinze))
+else:
+  print('o novo salário é {}'.format(salariodez))
+
+#Desafio 35
+r1 = float(input('Coloque o valor de um lado: '))
+r2 = float(input('Coloque o valor de outro lado: '))
+r3 = float(input('Coloque o valor de outro lado: '))
+
+if abs( r2 - r3) < r1 <  r2 + r3 and abs( r1 - r3 ) < r2 < r1 + r3 and abs( r1 - r2 ) < r3 < r1 + r2:
+    print('Os lados {}, {} e {} podem formar triângulo.'.format(r1,r2,r3))
+else:
+    print('Os lados {}, {} e {} não podem formar triângulo.'.format(r1,r2,r3))
