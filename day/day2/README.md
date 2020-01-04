@@ -3,7 +3,7 @@
 
 ## Take Two
 
-### Day 1:
+### Day 2:
 
 **Daily Progress**: 
 - Class 7 and 8 - Curso Python | Curso em Video | [Statistical Learning](https://github.com/mrncstt/Statistical_Learning/blob/master/Chpt%206%20-%20Linear%20Model%20Selection%20and%20Regularization/readme.md)
