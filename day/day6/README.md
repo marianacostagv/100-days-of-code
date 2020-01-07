@@ -1,4 +1,25 @@
 
+## Log
+
+
+## Take Two
+
+### Day 6:
+
+**Daily Progress**: 
+- Class 15 - Curso Python | Curso em Video 
+
+**Links:** 
+- [Links](https://www.youtube.com/watch?v=1OFp_-R2B2A&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=82)
+
+**New knowledges:** 
+- While | How to stop
+
+```
+while True:
+  break
+```
+
 ------------
 ### Day 6: 
 
