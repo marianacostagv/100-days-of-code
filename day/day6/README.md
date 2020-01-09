@@ -4,7 +4,7 @@
 
 ## Take Two
 
-### Day 6:
+### Day 7:
 
 **Daily Progress**: 
 - Class 17 - Curso Python | Curso em Video 
