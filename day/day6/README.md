@@ -1,19 +1,24 @@
-
 ## Log
 
 
 ## Take Two
 
-### Day 7:
+### Day 6:
 
 **Daily Progress**: 
-- Class 17 - Curso Python | Curso em Video 
+- Class 15 - Curso Python | Curso em Video 
 
 **Links:** 
 - [Links](https://www.youtube.com/watch?v=1OFp_-R2B2A&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=82)
 
 **New knowledges:** 
-- Lists
+- While | How to stop
+
+```
+while True:
+  break
+```
+
 
 ```
 num = [2,4,5,7]
