@@ -19,9 +19,26 @@
 
 ```
  - interctive help 
+    help(print)
  - docstrings 
- - argumentos opcionais 
- - escopo de variaveis
+      def contador(i,f,p):
+
+     """
+     #docstring - contador
+     faz uma contagem e mostra na tela, onde:
+     i =  parametro inicial
+     f = parametro final
+     p = passo
+     """
+     c=i
+     while c<=f:
+       print(f'{c}')
+       c=c+p
+     print('FIM')
+   contador(2,10,2)
+   help(contador)
+    - argumentos opcionais 
+    - escopo de variaveis
 
 
 ```
