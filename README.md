@@ -17,6 +17,7 @@ This is a challenge for 100 days to create a daily programming habit to develop 
 | ------------------------- | ------------------ |
 | [Statistical Learning](https://github.com/mrncstt/Statistical_Learning) | 🔘 |
 | [Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 🔘 |
+| [Git](https://www.udemy.com/course/git-e-github-para-iniciantes/learn/lecture/5120536#overview) | ✅ |
 
 
  
