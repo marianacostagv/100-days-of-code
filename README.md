@@ -18,7 +18,8 @@ This is a challenge for 100 days to create a daily programming habit to develop 
 | [Statistical Learning](https://github.com/mrncstt/Statistical_Learning) | 🔘 |
 | [Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | ✅ |
 | [Git](https://www.youtube.com/watch?v=-GhA2JPImgU&list=LL1BbIq6F8q-CDeDSguvXCpQ&index=2&t=0s) | 🔘 |
-|[Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python) |🔘 |
+|[Data Analyst with Python]() |🔘 |
+|[Querying Data with Transact-SQL](https://courses.edx.org/courses/course-v1:Microsoft+DAT201x+1T2020/courseware/7b9faea57c5a459aabeb6888d13e9ff9/2352121a6ddf432b8546b6bb5548da40/1?activate_block_id=block-v1%3AMicrosoft%2BDAT201x%2B1T2020%2Btype%40vertical%2Bblock%4026fe805c0025484e8fa75a51cbd05cad) |🔘 |
 
 
  
