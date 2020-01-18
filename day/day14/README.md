@@ -34,3 +34,6 @@
   - loc and iloc (2)
   - loc and iloc (3)
 
+## Lists vs Dictionaries
+
+![](https://i.imgur.com/a2HUMWn.png)
