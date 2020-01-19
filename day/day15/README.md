@@ -42,3 +42,5 @@
 
 ### Using booleand operators to filter
 ![](https://i.imgur.com/7IEjJu6.png)
+
+![](https://i.imgur.com/jflqbQe.png)
