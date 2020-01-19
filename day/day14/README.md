@@ -37,3 +37,11 @@
 ## Lists vs Dictionaries
 
 ![](https://i.imgur.com/a2HUMWn.png)
+
+## Discussion
+
+![](https://i.imgur.com/c42m9NG.png)
+
+## Completed
+
+![](https://i.imgur.com/TjPL8DL.png)
