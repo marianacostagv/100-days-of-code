@@ -36,7 +36,9 @@
   - Cars per capita (1)
   - Cars per capita (2)
 
-## Get column as Series
+### Get column as Series
 
 ![](https://i.imgur.com/RPsVhH3.png)
 
+### Using booleand operators to filter
+![](https://i.imgur.com/7IEjJu6.png)
