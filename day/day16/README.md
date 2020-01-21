@@ -33,4 +33,6 @@
     - How can I view a repository's history?
     - How can I view a specific file's history?
     - How do I write a better log message
+    
+![](https://i.imgur.com/mEnwbdW.png)    
 
