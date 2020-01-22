@@ -36,3 +36,5 @@
   - Add column (2)
 
 ![](https://i.imgur.com/EuHZhmX.png)
+![](https://i.imgur.com/x6S7dJA.png)
+![](https://i.imgur.com/KXN1RPn.png)
