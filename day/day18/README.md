@@ -34,4 +34,4 @@
      - Calculate the odds
 
 
-![]()
+![](https://i.imgur.com/7OmhGd1.png)
