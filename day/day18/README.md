@@ -35,3 +35,6 @@
 
 
 ![](https://i.imgur.com/7OmhGd1.png)
+
+
+[Files_used](https://github.com/mrncstt/100-days-of-code/files/4100848/intermediate_python_datacamp.zip) :file_folder:
