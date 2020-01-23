@@ -16,22 +16,22 @@
 
 **New knowledges:** 
 
-- Case Study:
+- Case Study
 
- - Random Numbers
- - Random float
- - Roll the dice
- - Determine your next move
- - Random Walk
- - The next step
- - How low can you go?e
- - Visualize the walk
- - Distribution
- - Simulate multiple walks
- - Visualize all walks
- - Implement clumsiness
- - Plot the distribution
- - Calculate the odds
+     - Random Numbers: Same seed = same random numbers | Ensures "reproducibility"
+     - Random float
+     - Roll the dice
+     - Determine your next move
+     - Random Walk
+     - The next step
+     - How low can you go?e
+     - Visualize the walk
+     - Distribution
+     - Simulate multiple walks
+     - Visualize all walks
+     - Implement clumsiness
+     - Plot the distribution
+     - Calculate the odds
 
 
 ![]()
